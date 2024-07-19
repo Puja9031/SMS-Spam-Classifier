@@ -41,3 +41,9 @@ To use the application:
 
 #### Conclusion
 The SMS Spam Classifier project showcases the power of natural language processing and machine learning in filtering unwanted messages. Streamlit's user-friendly interface makes the application accessible to a broad audience, enhancing its practical utility.
+
+### HOW THE OUTPUT LOOKS LIKE
+
+![spam1](https://github.com/user-attachments/assets/38a59292-9715-4706-b771-6d44be9e9ce5)
+![spam2](https://github.com/user-attachments/assets/028314fb-98b6-4cda-98da-313f15b057d9)
+![spam3](https://github.com/user-attachments/assets/a8115336-8b4f-4b25-9215-da59fd04fe5b)
